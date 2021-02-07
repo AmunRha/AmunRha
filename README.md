@@ -1,5 +1,5 @@
 <p align="center">
-<img height=1900 width=1080 src="https://github.com/AmunRha/AmunRha/blob/main/res/MOSHED-2021-2-8-5-9-11.gif">&nbsp;&nbsp;
+<img height=1024 width=1080 src="https://github.com/AmunRha/AmunRha/blob/main/res/MOSHED-2021-2-8-5-9-11.gif">&nbsp;&nbsp;
 </p>
 
 <p align="center">
