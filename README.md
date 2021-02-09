@@ -53,3 +53,11 @@ for i, j in zip(cycle(key), flag):
 ```
 
 <a href="https://youtu.be/dQw4w9WgXcQ">soultion.py</a>
+
+---
+
+<p align="left" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=AmunRha&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
