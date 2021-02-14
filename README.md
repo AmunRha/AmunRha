@@ -30,7 +30,7 @@
 - What do i do? - I'm a <a href="https://youtu.be/8ev9ZX9J45A">CTF Player! </a><img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/heck_panda.gif">
 - What am i learning? - I'm learning Reverse Engineering and Pwning
 - Who do i work with? - I'm currently playing for <a href="https://bi0s.in/">teambi0s</a> and a former member at <a href="https://www.zh3r0.ml/">zh3r0</a>
-- What am i currenlty working on? - Developing my skills, and <a href="https://traboda.com/">traboda!</a>
+- What am i currenlty working on? - Levelling up my skills, and <a href="https://traboda.com/">traboda!</a>
 - Do i blog? - Not currently, but planning to.
 - Any interests? - I watch anime <img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/1097_sayorijump.gif"> and love lofi <img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/music_hear.gif">
 - Anything more? - i UsE aRcH bTw! <img height=24 src="https://github.com/AmunRha/AmunRha/blob/main/res/3753_cat_bopping.gif">
