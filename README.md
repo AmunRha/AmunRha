@@ -26,8 +26,8 @@
 
 ## Alright, Gameface == ON <img height=40 src="https://github.com/AmunRha/AmunRha/blob/main/res/glasses_smile.gif">
 
-- Who am i? - I'm a Undergrad at <a href="https://www.amrita.edu/campus/amritapuri">Amrita Vishwa Vidyapeetham, Amritapuri </a><img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/study-assignment.gif">
-- What do i do? - I'm a <a href="https://youtu.be/8ev9ZX9J45A">CTF Player! </a><img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/heck_panda.gif">
+- Who am i? - I'm a <a href="https://youtu.be/8ev9ZX9J45A">CTF Player! </a><img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/heck_panda.gif">
+- What do i do? - I'm a Undergrad at <a href="https://www.amrita.edu/campus/amritapuri">Amrita Vishwa Vidyapeetham, Amritapuri </a><img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/study-assignment.gif">
 - What am i learning? - I'm learning Reverse Engineering and Pwning
 - Who do i work with? - I'm currently playing for <a href="https://bi0s.in/">teambi0s</a> and a former member at <a href="https://www.zh3r0.ml/">zh3r0</a>
 - What am i currenlty working on? - Levelling up my skills, and <a href="https://traboda.com/">traboda!</a>
