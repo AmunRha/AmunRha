@@ -18,7 +18,7 @@
 - <img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/9468_heartarrow_blue.gif"> Ask me about <a href="https://youtu.be/z9BQ4eLRXH0">Why The World is Beautiful?</a>
 - <img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/4488_awolfiriblob.gif"> Pronoun: <a href="http://www.pure-spirit.com/more-animal-symbolism/320-wolf-symbolism">Wolf</a>
 - <img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/thinking_head_rotate.gif"> Fun Fact: Does it matter if the sun revolved around the Earth?
-- <img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/3774_Ping999.gif"> How to reach me: Reach me through Discord `AmunRha#3245`, twitter or my email
+- <img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/3774_Ping999.gif"> How to reach me: Reach me through Discord `AmunRha#6390`, twitter or my email
 - <img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/4188_loop.gif"> Quote of the day: 
 > Patience, What you have When there are too many witnesses.
 
