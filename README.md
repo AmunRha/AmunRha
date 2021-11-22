@@ -31,7 +31,7 @@
 - What am i learning? - I'm learning Reverse Engineering and Pwning
 - Who do i work with? - I'm currently playing for <a href="https://bi0s.in/">teambi0s</a> and a former member at <a href="https://www.zh3r0.ml/">zh3r0</a>
 - What am i currently working on? - Levelling up my skills.
-- Any interests? - I watch anime <img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/1097_sayorijump.gif"> and love lofi <img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/music_hear.gif">
+- Any interests? - I watch anime <img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/1097_sayorijump.gif"> and love music <img height=25 src="https://github.com/AmunRha/AmunRha/blob/main/res/music_hear.gif">
 
 ---
 
