@@ -3,11 +3,9 @@
 </p>
 
 <p align="center">
-<a href="https://medium.com/@amun_rha"><img height="30" src="https://github.com/AmunRha/AmunRha/blob/main/res/medium-1693563-1442604.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/amun_rha/"><img height="30" src="https://github.com/AmunRha/AmunRha/blob/main/res/PinClipart.com_awana-sparks-clip-art_1496652.png"></a>&nbsp;&nbsp;
-<a href="https://ctftime.org/user/72051"><img height="30" src="https://ctftime.org/static/images/ct/logo.svg"></a>&nbsp;&nbsp;
-<a href="mailto:adhithyasureshk@gmail.com"><img height="30" src="https://github.com/AmunRha/AmunRha/blob/main/res/gmail_icon-icons.com_59877.png"></a>&nbsp;&nbsp;
-<a href="https://discord.com/users/AmunRha#3245"><img height="30" src="https://github.com/AmunRha/AmunRha/blob/main/res/d98703602722.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/adhithyasureshk">LinkedIn</a>&nbsp;&nbsp;
+<a href="https://twitter.com/amun_rha/">Twitter</a>&nbsp;&nbsp;
+<a href="mailto:adhithyasureshk@gmail.com">Email</a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Hey there! I'm Adhithya aka AmunRha, Nice to meet you!<img height="50" src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif"></h2>
