@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/adhithyasureshk">LinkedIn</a>&nbsp;&nbsp;
 <a href="https://twitter.com/amun_rha/">Twitter</a>&nbsp;&nbsp;
 <a href="mailto:adhithyasureshk@gmail.com">Email</a>&nbsp;&nbsp;
-<a href="https://amunrha.github.io">Website</a>&nbsp;&nbsp;
+<a href="https://amunrha.github.io">Blog</a>&nbsp;&nbsp;
 </p>
 
 <h2 align="center">Hey there! I'm Adhithya aka AmunRha, Nice to meet you!<img height="50" src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif"></h2>
